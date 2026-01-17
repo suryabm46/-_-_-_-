@@ -357,7 +357,7 @@ sʜᴏᴡɴ ɪɴ : {remaining_seconds} <i>sᴇᴄ</i>⚡️
 🏷️ <b>ᴘᴀʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅꜱ</b>
 
 💸 ᴜᴘɪ ɪᴅ → <code>{suryabm18@axl}</code>  
-📷 ǫʀ ᴄᴏᴅᴇ → <a href='{https://graph.org/file/e3d1c9533f0402b85e09f.jpg}'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>  
+📷 ǫʀ ᴄᴏᴅᴇ → href='https://graph.org/file/e3d1c9533f0402b85e09f.jpg'>CLICK HERE TO SCAN</a>  
 
 🧾 ᴘᴀʏ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ʏᴏᴜʀ ᴘʟᴀɴ ᴀɴᴅ ᴇɴᴊᴏʏ ᴘʀᴇᴍɪᴜᴍ!
 
