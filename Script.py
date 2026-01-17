@@ -224,7 +224,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/SB_KANNADA_MOVE_WORLD">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/iP_Update">[ iP Update ]</a></b>"""
+    CAPTION = """<b><a href="https://t.me/SB_KANNADA_MOVE_WORLD">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/SB_KANNADA_MOVE_WORLD">[ SB Update ]</a></b>"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
